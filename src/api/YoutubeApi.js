@@ -1,7 +1,7 @@
 import axios from "axios";
 
 
-const KEY = 'AIzaSyCVY1CzP_ExdcagpWvEXJjaW9rHjJrGUEw';
+const KEY = '';
 
 export const baseParams = {
   part: "snippet",
